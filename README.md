@@ -1,5 +1,13 @@
 
-# Retail Sales Data Cleaning & Analytics Project
+# 🛒 Retail Sales Data Cleaning & Analytics Project
+
+End-to-end SQL data cleaning, validation, business analysis, and advanced analytics project built using SQL Server and SSMS.
+
+![SQL](https://img.shields.io/badge/SQL-Database-blue)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-SSMS-red)
+![Data Cleaning](https://img.shields.io/badge/Data-Cleaning-success)
+![Analytics](https://img.shields.io/badge/Business-Analytics-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
 
 ## Project Overview
 
@@ -110,6 +118,22 @@ Retail-Sales-Analytics-Project/
 
 ```
 
+## Project Workflow
+
+Raw Dataset
+↓  
+Database Setup  
+↓  
+Data Cleaning  
+↓  
+Data Validation  
+↓  
+Business Analysis  
+↓  
+Advanced Analytics  
+↓  
+Cleaned Dataset + Portfolio Output
+
 ---
 
 ## Data Cleaning Highlights
@@ -191,6 +215,25 @@ This project demonstrates practical experience with:
 - Data Quality Management
 - Business Analytics
 - Analytical SQL
+
+---
+
+## Future Improvements
+
+Potential future enhancements for this project:
+
+- Power BI dashboard integration
+- Interactive KPI reporting
+- Query optimization benchmarking
+- Data pipeline automation
+- Additional business intelligence visualizations
+
+---
+## Repository
+
+GitHub Repository:
+
+[Retail Sales Analytics Project](https://github.com/AbbySteve94/retail-sales-project)
 =======
 # retail-sales-project
 SQL Server retail sales data cleaning, validation, and analytics project.
