@@ -1,3 +1,4 @@
+
 # Retail Sales Data Cleaning & Analytics Project
 
 ## Project Overview
@@ -190,3 +191,7 @@ This project demonstrates practical experience with:
 - Data Quality Management
 - Business Analytics
 - Analytical SQL
+=======
+# retail-sales-project
+SQL Server retail sales data cleaning, validation, and analytics project.
+
