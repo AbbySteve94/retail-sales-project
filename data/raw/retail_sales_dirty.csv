@@ -1,0 +1,101 @@
+TransactionID,Date,CustomerID,Product,Category,Quantity,UnitPrice,TotalAmount,PaymentMethod,Region
+TXN0001,1/14/2025,CUST1098,Backpack,Accessories,,58.31,291.55,Cash,E.
+TXN0002,5/18/2025,CUST1043,T-Shirt,Clothing,3,71.85,215.55,Credit Card,W.
+TXN0003,1/1/2025,CUST1099,Laptop,Electronics,10,191.91,1919.1$,Mobile Pay,west
+TXN0004,1/12/2025,CUST1018,Coffee Maker,Home,1,149.44,149.44,Mobile Pay,East
+TXN0005,5/1/2025,CUST1098,Notebook,Stationery,6,263.23,1579.38,Debit Card,West
+TXN0006,4/12/2025,CUST1082,Backpack,Accessories,9,320.98,2888.82,Mobile Pay,South
+TXN0007,6/21/2025,CUST1065,T-Shirt,Clothing,3,364.28,1092.84$,Mobile Pay,East
+TXN0008,2/13/2025,CUST1070,Backpack,Accessories,2,362.94,725.88,Debit Card,West
+TXN0009,2/18/2025,,Headphones,Electronics,1,448.59,448.59,Mobile Pay,South
+TXN0010,5/9/2025,CUST1007,Notebook,Stationery,8,482.21,3857.68,Credit Card,South
+TXN0011,5/4/2025,CUST1019,Desk Chair,Furniture,7,377.07,2639.49$,Credit Card,North
+TXN0012,2/19/2025,CUST1045,Notebook,Stationery,7,99999,699993.0$,Cash,South
+TXN0013,4/1/2025,CUST1010,Backpack,Accessories,1,398.89,398.89,Mobile Pay,West
+TXN0014,3/24/2025,CUST1060,T-Shirt,Clothing,9,170.74,1536.66,Credit Card,E.
+TXN0015,1/17/2025,CUST1086,Coffee Maker,Home,6,336.04,2016.24,Cash,South
+TXN0016,4/10/2025,CUST1018,Notebook,Stationery,7,187.4,1311.8,Debit Card,South
+TXN0017,1/31/2025,CUST1075,Backpack,Accessories,7,35.72,250.04$,Cash,east
+TXN0018,4/26/2025,CUST1094,Desk Chair,Furniture,5,217.36,1086.8,Credit Card,South
+TXN0019,3/25/2025,CUST1065,Coffee Maker,Home,6,252.56,1515.36,Debit Card,W
+TXN0020,5/26/2025,CUST1034,Sneakers,Footwear,-4,443.81,-1775.24,Cash,South
+TXN0021,1/21/2025,CUST1064,Sneakers,Footwear,1,101.11,101.11,Cash,east
+TXN0022,1/22/2025,CUST1068,Coffee Maker,Home,9,72.05,648.45,Mobile Pay,E.
+TXN0023,1/8/2025,CUST1073,Desk Chair,Furniture,6,200.93,1205.58,Credit Card,West
+TXN0024,6/3/2025,CUST1063,Headphones,Electronics,10,65.55,655.5$,Mobile Pay,east
+TXN0025,6/21/2025,CUST1040,Headphones,Electronics,4,386.29,1545.16,Credit Card,W.
+TXN0026,4/8/2025,CUST1007,Backpack,Accessories,7,252.74,1769.18,Credit Card,South
+TXN0027,4/7/2025,CUST1037,Laptop,Electronics,5,253.9,1269.5,Cash,E.
+TXN0028,1/14/2025,CUST1038,Laptop,Electronics,8,288.9,2311.2,Debit Card,W
+TXN0029,6/15/2025,,Headphones,Electronics,4,474.65,1898.6,Debit Card,east
+TXN0030,1/13/2025,CUST1002,Backpack,Accessories,8,368.21,2945.68,Cash,North
+TXN0031,5/19/2025,CUST1047,Sneakers,Footwear,10,432.65,4326.5,Debit Card,West
+TXN0032,3/24/2025,CUST1029,Laptop,Electronics,5,146.12,730.6,Debit Card,E.
+TXN0033,1/12/2025,CUST1063,Coffee Maker,Home,4,28.08,112.32,Credit Card,East
+TXN0034,5/8/2025,CUST1059,Sneakers,Footwear,5,266.27,1331.35$,Debit Card,W
+TXN0035,5/14/2025,CUST1008,Backpack,Accessories,7,399.9,2799.3,Cash,E.
+TXN0036,6/17/2025,CUST1045,Coffee Maker,Home,8,71.61,572.88,Credit Card,West
+TXN0037,3/4/2025,CUST1009,Backpack,Accessories,1,10.42,10.42,Cash,West
+TXN0038,3/5/2025,CUST1055,Notebook,Stationery,3,155.57,466.71,Debit Card,W
+TXN0039,5/12/2025,CUST1046,Coffee Maker,Home,8,116.34,930.72,Mobile Pay,E.
+TXN0040,5/24/2025,CUST1009,Desk Chair,Furniture,1,146.96,146.96,Cash,W.
+TXN0041,2/1/2025,CUST1045,T-Shirt,Clothing,8,262.83,2102.64,Credit Card,E.
+TXN0042,1/13/2025,CUST1096,Laptop,Electronics,10,333.9,3339,Credit Card,E.
+TXN0043,2/16/2025,CUST1060,Coffee Maker,Home,1,85.47,85.47,Debit Card,West
+TXN0044,1/26/2025,CUST1058,Backpack,Accessories,4,332.35,1329.4$,Credit Card,west
+TXN0045,4/29/2025,CUST1017,T-Shirt,Clothing,6,99999,599994,Credit Card,W
+TXN0046,3/2/2025,CUST1043,Coffee Maker,Home,2,339.26,678.52,Mobile Pay,east
+TXN0047,2/28/2025,CUST1007,Laptop,Electronics,2,462.76,925.52,Credit Card,South
+TXN0048,1/1/2025,CUST1077,Notebook,Stationery,7,488.37,3418.59,Debit Card,W.
+TXN0049,4/17/2025,CUST1077,Notebook,Stationery,6,160.17,961.02,Debit Card,South
+TXN0050,1/1/2025,CUST1010,Backpack,Accessories,3,306.95,920.85,Cash,South
+TXN0051,2/20/2025,CUST1086,Laptop,Electronics,4,106.64,426.56,Mobile Pay,East
+TXN0052,6/17/2025,CUST1069,Coffee Maker,Home,7,18.22,127.54,Credit Card,W
+TXN0053,4/4/2025,CUST1017,Laptop,Electronics,5,65.02,325.1,Debit Card,West
+TXN0054,3/7/2025,CUST1032,Backpack,Accessories,2,312.43,624.86,Cash,South
+TXN0055,1/31/2025,CUST1042,Notebook,Stationery,-5,222.56,-1112.8,Cash,west
+TXN0056,6/8/2025,CUST1098,Desk Chair,Furniture,7,409.72,2868.04,Debit Card,W.
+TXN0057,2/3/2025,CUST1053,Sneakers,Footwear,4,458.3,1833.2,Credit Card,west
+TXN0058,2/14/2025,CUST1053,Coffee Maker,Home,7,414.89,2904.23$,Cash,west
+TXN0059,5/26/2025,CUST1072,T-Shirt,Clothing,9,358.58,3227.22,Debit Card,South
+TXN0060,6/19/2025,CUST1002,Coffee Maker,Home,5,146.02,730.1,Mobile Pay,W
+TXN0061,5/8/2025,CUST1008,Coffee Maker,Home,3,334.71,1004.13,Cash,North
+TXN0062,5/29/2025,CUST1051,Backpack,Accessories,9,469.77,4227.93$,Credit Card,west
+TXN0063,4/23/2025,CUST1068,Notebook,Stationery,1,108.08,108.08$,Cash,West
+TXN0064,4/16/2025,CUST1060,Backpack,Accessories,6,332.64,1995.84,Mobile Pay,E.
+TXN0065,6/18/2025,CUST1011,T-Shirt,Clothing,4,80.36,321.44,Credit Card,East
+TXN0066,4/4/2025,,Notebook,Stationery,5,208.43,1042.15,Cash,West
+TXN0067,5/29/2025,CUST1018,Laptop,Electronics,8,455.63,3645.04,Mobile Pay,West
+TXN0068,4/6/2025,CUST1096,Desk Chair,Furniture,6,325.71,1954.26,Debit Card,W
+TXN0069,2/13/2025,CUST1006,Laptop,Electronics,8,402.1,3216.8,Credit Card,west
+TXN0070,6/18/2025,CUST1029,Backpack,Accessories,3,255.71,767.13,Mobile Pay,South
+TXN0071,3/1/2025,CUST1067,Desk Chair,Furniture,6,161.08,966.48,Mobile Pay,East
+TXN0072,3/28/2025,CUST1022,Sneakers,Footwear,2,365.75,731.5,Credit Card,east
+TXN0073,1/11/2025,CUST1083,Coffee Maker,Home,7,373.45,2614.15,Credit Card,South
+TXN0074,6/17/2025,CUST1062,T-Shirt,Clothing,8,82.1,656.8,Mobile Pay,W
+TXN0075,1/18/2025,CUST1060,Backpack,Accessories,6,28.4,170.4,Mobile Pay,west
+TXN0076,3/25/2025,CUST1001,Laptop,Electronics,1,358.28,358.28,Debit Card,W
+TXN0077,6/29/2025,CUST1086,Desk Chair,Furniture,10,349.12,3491.2,Cash,W.
+TXN0078,2/2/2025,CUST1025,Desk Chair,Furniture,7,99999,699993.0$,Credit Card,East
+TXN0079,4/2/2025,CUST1086,Laptop,Electronics,6,106.88,641.28$,Credit Card,South
+TXN0080,1/3/2025,CUST1065,Backpack,Accessories,7,353.62,2475.34$,Credit Card,W.
+TXN0081,3/31/2025,CUST1089,Backpack,Accessories,8,62.9,503.2$,Mobile Pay,west
+TXN0082,2/20/2025,CUST1088,Laptop,Electronics,6,91.58,549.48$,Cash,E.
+TXN0083,6/15/2025,CUST1057,Backpack,Accessories,8,358.74,2869.92,Cash,East
+TXN0084,5/10/2025,CUST1093,Headphones,Electronics,6,177.84,1067.04,Credit Card,west
+TXN0085,1/7/2025,CUST1064,Headphones,Electronics,1,413.49,413.49,Debit Card,East
+TXN0086,2/8/2025,CUST1060,Headphones,Electronics,4,269.52,1078.08,Mobile Pay,W.
+TXN0087,2/23/2025,CUST1089,Desk Chair,Furniture,9,114.71,1032.39,Credit Card,W
+TXN0088,4/29/2025,CUST1042,Desk Chair,Furniture,8,234.3,1874.4,Mobile Pay,East
+TXN0089,1/21/2025,CUST1059,Laptop,Electronics,10,422.94,4229.4,Credit Card,W
+TXN0090,1/15/2025,CUST1053,Desk Chair,Furniture,10,139.99,1399.9,Debit Card,W.
+TXN0091,5/14/2025,CUST1089,Backpack,Accessories,2,293.7,587.4,Debit Card,North
+TXN0092,6/27/2025,CUST1017,Coffee Maker,Home,6,351.3,2107.8$,Debit Card,E.
+TXN0093,2/9/2025,CUST1034,Sneakers,Footwear,10,409.16,4091.6,Cash,East
+TXN0094,2/19/2025,CUST1003,Coffee Maker,Home,3,386.99,1160.97,Credit Card,east
+TXN0095,1/11/2025,CUST1005,Headphones,Electronics,4,46.37,185.48,Mobile Pay,W.
+TXN0096,1/25/2025,CUST1067,T-Shirt,Clothing,,330.25,3302.5,Mobile Pay,W.
+TXN0097,3/2/2025,CUST1021,Desk Chair,Furniture,3,293.04,879.12,Cash,North
+TXN0063,4/23/2025,CUST1068,Notebook,Stationery,1,108.08,108.08$,Cash,West
+TXN0041,2/1/2025,CUST1045,T-Shirt,Clothing,8,262.83,2102.64,Credit Card,E.
+TXN0094,2/19/2025,CUST1003,Coffee Maker,Home,3,386.99,1160.97,Credit Card,east

@@ -1,0 +1,4 @@
+﻿TransactionID,Date,CustomerID,Product,Category,Quantity,UnitPrice,TotalAmount,PaymentMethod,Region
+TXN0012,2/19/2025,CUST1045,Notebook,Stationery,7,99999,699993,Cash,South
+TXN0045,4/29/2025,CUST1017,T-Shirt,Clothing,6,99999,599994,Credit Card,West
+TXN0078,2/2/2025,CUST1025,Desk Chair,Furniture,7,99999,699993,Credit Card,East
