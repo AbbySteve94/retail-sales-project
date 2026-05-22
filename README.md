@@ -229,7 +229,13 @@ Potential future enhancements for this project:
 - Additional business intelligence visualizations
 
 ---
+
+## Dashboard Preview
+
+![Dashboard Preview](images/dashboard_preview.png)
 ## Repository
+
+---
 
 GitHub Repository:
 
