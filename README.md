@@ -230,6 +230,42 @@ Potential future enhancements for this project:
 
 ---
 
+## Excel Dashboard
+
+This dashboard was built using Microsoft Excel to analyze retail sales performance.
+
+### Features
+
+- KPI Summary Cards
+- Revenue by Region
+- Revenue by Category
+- Monthly Revenue Trend
+- Interactive Slicers
+
+### Tools Used
+
+- Microsoft Excel
+- Excel Formulas
+- Pivot Tables
+- Pivot Charts
+- Slicers
+
+### Dashboard Preview
+
+![Excel Dashboard](dashboards/excel_dashboard.png)
+
+### Key Findings
+
+- West Region generated the highest revenue.
+- Electronics was the highest-performing category.
+- January recorded the strongest sales month.
+
+### Documentation
+
+See detailed project notes here:
+
+[Excel Project Summary](documentation/excel_project_summary.md)
+
 ## Dashboard Preview
 
 ![Dashboard Preview](images/dashboard_preview.png)
